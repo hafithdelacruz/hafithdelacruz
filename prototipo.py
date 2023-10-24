@@ -26,6 +26,4 @@ while te < tmax: #condición para detener la generación#
     le.append(te) #agregar a la lista de tiempos de entrada#
 print(le)
 
-#m.to_csv("C:/Users/gueta/OneDrive/Documentos/Hafith Docs/ESFM/Tesis")
-
 print("Fin",datetime.now()) #hora de fin#
