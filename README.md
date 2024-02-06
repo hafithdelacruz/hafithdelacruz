@@ -2,7 +2,7 @@
 - 👀 I’m interested in mathematics and tech trends like ML, big data & AI
 - 🌱 I’m currently learning Django
 - 💞️ I’m looking to collaborate on any freelance proyect
-- 📫 How to reach me. Write an email to ingmathhafithdcv@gmail.com
+- 📫 How to reach me. Write an email to hafithdelacruz@gmail.com
 
 <!---
 hafithdelacruz/hafithdelacruz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
